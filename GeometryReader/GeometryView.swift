@@ -13,6 +13,7 @@ struct GeometryView: View {
             VStack {
                 ScrollView {
                     GeometryTreeView(width: 200, height: 200)
+                    CurveCloudView(width: 200, height: 200)
                 }
             }
             .navigationBarTitle("Geometry Image")

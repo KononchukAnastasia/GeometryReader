@@ -12,6 +12,7 @@
 		B55184AD2BCAC40F002443CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B55184AC2BCAC40F002443CB /* Assets.xcassets */; };
 		B55184B02BCAC40F002443CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B55184AF2BCAC40F002443CB /* Preview Assets.xcassets */; };
 		B55184B72BCAC455002443CB /* GeometryTreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55184B62BCAC455002443CB /* GeometryTreeView.swift */; };
+		B55184BB2BCAEC49002443CB /* CurveCloudView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55184BA2BCAEC49002443CB /* CurveCloudView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B55184AC2BCAC40F002443CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B55184AF2BCAC40F002443CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B55184B62BCAC455002443CB /* GeometryTreeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryTreeView.swift; sourceTree = "<group>"; };
+		B55184BA2BCAEC49002443CB /* CurveCloudView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurveCloudView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				B55184A82BCAC40C002443CB /* GeometryReaderApp.swift */,
 				B55184AA2BCAC40C002443CB /* GeometryView.swift */,
 				B55184B62BCAC455002443CB /* GeometryTreeView.swift */,
+				B55184BA2BCAEC49002443CB /* CurveCloudView.swift */,
 				B55184AC2BCAC40F002443CB /* Assets.xcassets */,
 				B55184AE2BCAC40F002443CB /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				B55184AB2BCAC40C002443CB /* GeometryView.swift in Sources */,
 				B55184B72BCAC455002443CB /* GeometryTreeView.swift in Sources */,
+				B55184BB2BCAEC49002443CB /* CurveCloudView.swift in Sources */,
 				B55184A92BCAC40C002443CB /* GeometryReaderApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
